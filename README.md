@@ -1,4 +1,4 @@
-# Data-Visualization-R
+# Data-Visualization-R | June 2020
 
 # Task
 Analyze the data, determine two significant findings (practical and
